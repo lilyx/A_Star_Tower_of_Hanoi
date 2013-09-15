@@ -40,3 +40,6 @@ void removeFromList(struct list** list, struct node* node);
 void move(int** array1, int** array2,int size1,int size2);
 void freeNode(struct node** node);
 int node_h(struct node* node);
+
+
+
